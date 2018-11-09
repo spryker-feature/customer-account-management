@@ -1,0 +1,13 @@
+{
+  "name": "spryker-feature/customer-account-management",
+  "description": "Customer Account Management [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/customer-page": "^1.13.0",
+    "spryker/customer": "^7.13.3",
+    "spryker/customer-group": "^2.3.0"
+  }
+}
