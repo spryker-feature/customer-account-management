@@ -6,8 +6,8 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-shop/customer-page": "^1.13.0",
-    "spryker/customer": "^7.14.0",
+    "spryker-shop/customer-page": "^1.15.1",
+    "spryker/customer": "^7.16.1",
     "spryker/customer-group": "^2.3.0"
   }
 }
