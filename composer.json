@@ -9,5 +9,10 @@
     "spryker-shop/customer-page": "^1.15.1",
     "spryker/customer": "^7.16.1",
     "spryker/customer-group": "^2.3.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
