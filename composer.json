@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-shop/customer-page": "^1.16.0",
+    "spryker-shop/customer-page": "^1.17.0",
     "spryker/customer": "^7.17.0",
     "spryker/customer-group": "^2.3.0"
   },
