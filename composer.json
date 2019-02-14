@@ -8,8 +8,8 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/customer-page": "^1.17.0",
-    "spryker/customer": "^7.17.0",
-    "spryker/customer-group": "^2.3.0"
+    "spryker/customer": "^7.18.0",
+    "spryker/customer-group": "^2.4.0"
   },
   "extra": {
     "branch-alias": {
