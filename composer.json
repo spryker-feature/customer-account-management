@@ -9,7 +9,8 @@
     "php": ">=7.1",
     "spryker-shop/customer-page": "^1.17.0",
     "spryker/customer": "^7.20.0",
-    "spryker/customer-group": "^2.4.0"
+    "spryker/customer-group": "^2.4.0",
+    "spryker/oauth": "^1.5.1"
   },
   "extra": {
     "branch-alias": {
