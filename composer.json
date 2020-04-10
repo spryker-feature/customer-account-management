@@ -10,7 +10,8 @@
     "spryker-shop/customer-page": "^2.0.0",
     "spryker/customer": "^7.22.0",
     "spryker/customer-group": "^2.4.0",
-    "spryker/oauth": "^1.5.0"
+    "spryker/oauth": "^1.5.0",
+    "spryker/oauth-revoke": "^1.0.0"
   },
   "extra": {
     "branch-alias": {
