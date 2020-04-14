@@ -17,3 +17,4 @@ composer require spryker-feature/customer-account-management
 - [CustomersRestApi ^1.10.0](https://github.com/spryker/customers-rest-api) (Glue)
 - [CustomersRestApiExtension ^1.2.0](https://github.com/spryker/customers-rest-api-extension) (Extension)
 - [OauthCustomerConnector ^1.4.0](https://github.com/spryker/oauth-customer-connector) (Connector)
+- [OauthCustomerConnectorExtension](https://github.com/spryker/oauth-customer-connector-extension) (Extension)
