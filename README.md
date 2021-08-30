@@ -16,6 +16,6 @@ composer require spryker-feature/customer-account-management
 - [CustomerGroupDiscountConnector ^2.1.1](https://github.com/spryker/customer-group-discount-connector) (Connector)
 - [CustomersRestApi ^1.16.0](https://github.com/spryker/customers-rest-api) (Glue)
 - [CustomersRestApiExtension ^1.2.0](https://github.com/spryker/customers-rest-api-extension) (Extension)
-- [OauthCustomerConnector ^1.5.0](https://github.com/spryker/oauth-customer-connector) (Connector)
+- [OauthCustomerConnector ^1.7.0](https://github.com/spryker/oauth-customer-connector) (Connector)
 - [OauthCustomerConnectorExtension](https://github.com/spryker/oauth-customer-connector-extension) (Extension)
 - [OauthRevokeExtension ^1.0.0](https://github.com/spryker/oauth-revoke-extension) (Extension)
