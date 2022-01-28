@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker-shop/customer-page": "^2.34.0",
         "spryker/customer": "^7.35.0",
         "spryker/customer-group": "^2.6.0",
