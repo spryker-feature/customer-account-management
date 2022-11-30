@@ -19,3 +19,4 @@ composer require spryker-feature/customer-account-management
 - [OauthCustomerConnector ^1.8.0](https://github.com/spryker/oauth-customer-connector) (Connector)
 - [OauthCustomerConnectorExtension](https://github.com/spryker/oauth-customer-connector-extension) (Extension)
 - [OauthRevokeExtension ^1.0.0](https://github.com/spryker/oauth-revoke-extension) (Extension)
+- [SessionCustomerValidationExtension ^1.0.0](https://github.com/spryker/session-customer-validation-extension) (Extension)
