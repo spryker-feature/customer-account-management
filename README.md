@@ -2,6 +2,8 @@
 
 Self-management of customer account information
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/customer-relationship-management/202307.0/customer-account-management-feature-overview/customer-account-management-feature-overview.html)
+
 ## Installation
 
 ```
