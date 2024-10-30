@@ -11,7 +11,7 @@ composer require spryker-feature/customer-account-management
 ```
 
 ## Optional modules
-- [AuthRestApi ^2.14.0](https://github.com/spryker/auth-rest-api) (Legacy Glue)
+- [AuthRestApi ^2.15.0](https://github.com/spryker/auth-rest-api) (Legacy Glue)
 - [AuthRestApiExtension ^1.1.0](https://github.com/spryker/auth-rest-api-extension) (Extension)
 - [CustomerApi ^0.2.0](https://github.com/spryker/customer-api) (Old API)
 - [CustomerExtension ^1.5.0](https://github.com/spryker/customer-extension) (Extension)
