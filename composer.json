@@ -11,6 +11,7 @@
         "spryker-shop/customer-validation-page": "^1.0.0",
         "spryker-shop/session-customer-validation-page": "^1.1.0",
         "spryker/customer": "^7.59.0",
+        "spryker/customer-data-change-request": "^1.0.0",
         "spryker/customer-group": "^2.8.0",
         "spryker/customer-note": "^1.1.0",
         "spryker/customer-note-gui": "^1.2.0",
