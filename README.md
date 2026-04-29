@@ -14,7 +14,7 @@ composer require spryker-feature/customer-account-management
 - [AuthRestApi ^2.16.0](https://github.com/spryker/auth-rest-api) (Legacy Glue)
 - [AuthRestApiExtension ^1.1.0](https://github.com/spryker/auth-rest-api-extension) (Extension)
 - [CustomerApi ^0.2.0](https://github.com/spryker/customer-api) (Old API)
-- [CustomerExtension ^1.6.0](https://github.com/spryker/customer-extension) (Extension)
+- [CustomerExtension ^1.7.0](https://github.com/spryker/customer-extension) (Extension)
 - [CustomerGroupDiscountConnector ^2.2.0](https://github.com/spryker/customer-group-discount-connector) (Connector)
 - [CustomersRestApi ^1.26.0](https://github.com/spryker/customers-rest-api) (Legacy Glue)
 - [CustomersRestApiExtension ^1.2.0](https://github.com/spryker/customers-rest-api-extension) (Extension)
