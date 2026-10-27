@@ -16,7 +16,7 @@
         "spryker/customer-note": "^1.3.0",
         "spryker/customer-note-gui": "^1.4.0",
         "spryker/customer-storage": "^1.2.0",
-        "spryker/oauth": "^2.13.0",
+        "spryker/oauth": "^2.15.0",
         "spryker/oauth-cryptography": "^1.0.0",
         "spryker/oauth-customer-validation": "^1.0.0",
         "spryker/oauth-revoke": "^1.4.0"
